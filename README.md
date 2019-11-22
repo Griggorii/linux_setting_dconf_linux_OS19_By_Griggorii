@@ -3,6 +3,8 @@ linux_setting_dconf_linux_OS19_By_Griggorii_proper_setting_ideal_desktopt instal
 
 $$sudo apt install alacarte menulibre ccsm
 
+Optional budgie-dektop deb package https://launchpad.net/~fossfreedom/+archive/ubuntu/indicator-sysmonitor/+files/budgie-sysmonitor-applet_0.8.2ubuntu1_all.deb
+
 $$chmod +x Setting_dconf_linux_OS19_By_Griggorii.sh
 
 Run Setting_dconf_linux_OS19_By_Griggorii.sh
