@@ -25,8 +25,8 @@ window-height=452
 window-width=645
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/nemo/desktop/ignored-desktop-handlers'
-saved-view='/org/nemo/desktop/ignored-desktop-handlers'
+saved-pathbar-path='/org/gnome/desktop/lockdown/'
+saved-view='/org/gnome/desktop/lockdown/'
 show-warning=false
 window-height=469
 window-is-fullscreen=false
@@ -733,7 +733,7 @@ size=39
 transparency='dynamic'
 
 [com/solus-project/budgie-panel/panels/{a35a8564-dabb-11e9-b23b-0b98712e6d7b}]
-applets=['2d6cfe84-dabd-11e9-b23b-0b98712e6d7b', 'a35a8567-dabb-11e9-b23b-0b98712e6d7b', 'a35a8571-dabb-11e9-b23b-0b98712e6d7b', 'e5640cf4-dabc-11e9-b23b-0b98712e6d7b', 'b194ed7a-dabd-11e9-b23b-0b98712e6d7b', 'a35a856a-dabb-11e9-b23b-0b98712e6d7b', 'a35a8575-dabb-11e9-b23b-0b98712e6d7b', 'a35a856f-dabb-11e9-b23b-0b98712e6d7b', 'a35a8566-dabb-11e9-b23b-0b98712e6d7b', 'a35a8570-dabb-11e9-b23b-0b98712e6d7b', 'b0170cb8-e5ca-11e9-8f26-f742aca3153e', '7a2aca6c-dabd-11e9-b23b-0b98712e6d7b', 'a35a8565-dabb-11e9-b23b-0b98712e6d7b', 'a35a8574-dabb-11e9-b23b-0b98712e6d7b', 'a35a856e-dabb-11e9-b23b-0b98712e6d7b', '5b21b33e-dabc-11e9-b23b-0b98712e6d7b', 'a35a856d-dabb-11e9-b23b-0b98712e6d7b', 'a35a8573-dabb-11e9-b23b-0b98712e6d7b', 'a35a8569-dabb-11e9-b23b-0b98712e6d7b', '7e0e882c-dabc-11e9-b23b-0b98712e6d7b', '07a8c642-dabd-11e9-b23b-0b98712e6d7b', 'a35a8572-dabb-11e9-b23b-0b98712e6d7b', 'a35a8568-dabb-11e9-b23b-0b98712e6d7b', '726d84fe-dabd-11e9-b23b-0b98712e6d7b']
+applets=['2d6cfe84-dabd-11e9-b23b-0b98712e6d7b', 'a35a8567-dabb-11e9-b23b-0b98712e6d7b', 'a35a8571-dabb-11e9-b23b-0b98712e6d7b', 'a35a8568-dabb-11e9-b23b-0b98712e6d7b', 'b194ed7a-dabd-11e9-b23b-0b98712e6d7b', 'a35a856a-dabb-11e9-b23b-0b98712e6d7b', 'a35a8575-dabb-11e9-b23b-0b98712e6d7b', 'a35a856f-dabb-11e9-b23b-0b98712e6d7b', 'a35a8566-dabb-11e9-b23b-0b98712e6d7b', 'a35a8570-dabb-11e9-b23b-0b98712e6d7b', 'b0170cb8-e5ca-11e9-8f26-f742aca3153e', '7a2aca6c-dabd-11e9-b23b-0b98712e6d7b', 'a35a8565-dabb-11e9-b23b-0b98712e6d7b', 'a35a8574-dabb-11e9-b23b-0b98712e6d7b', 'a35a856e-dabb-11e9-b23b-0b98712e6d7b', '5b21b33e-dabc-11e9-b23b-0b98712e6d7b', 'a35a856d-dabb-11e9-b23b-0b98712e6d7b', 'a35a8573-dabb-11e9-b23b-0b98712e6d7b', 'a35a8569-dabb-11e9-b23b-0b98712e6d7b', '7e0e882c-dabc-11e9-b23b-0b98712e6d7b', '07a8c642-dabd-11e9-b23b-0b98712e6d7b', '726d84fe-dabd-11e9-b23b-0b98712e6d7b', 'e5640cf4-dabc-11e9-b23b-0b98712e6d7b', 'a35a8572-dabb-11e9-b23b-0b98712e6d7b']
 dock-mode=false
 location='bottom'
 size=39
@@ -805,7 +805,7 @@ width=1023
 alignment='center'
 auto-pinning=true
 current-workspace-only=false
-dock-items=['gufw.dockitem', 'gparted.dockitem', 'org.gnome.baobab.dockitem', 'org.gnome.DiskUtility.dockitem', 'Thunar.dockitem', 'nemo.dockitem', 'caja.dockitem', 'terminology.dockitem', 'lxterminal.dockitem', 'org.gnome.Terminal.dockitem', 'alacarte-made-48.dockitem', 'mate-about.dockitem', 'gnome-system-monitor.dockitem', 'synaptic.dockitem', 'xfce-display-settings.dockitem', 'thunderbird.dockitem', 'org.gnome.Todo.dockitem', 'onboard.dockitem', 'onboard-settings.dockitem', 'libreoffice-startcenter.dockitem', 'exo-preferred-applications.dockitem', 'kodi.dockitem', 'budgie-desktop-settings.dockitem', 'cinnamon-settings.dockitem', 'gnome-shell-extension-prefs.dockitem', 'unity-tweak-tool.dockitem', 'org.gnome.Totem.dockitem', 'steam.dockitem', 'PlayOnLinux.dockitem', 'com.github.wwmm.pulseeffects.dockitem', 'pavucontrol.dockitem', 'ca.desrt.dconf-editor.dockitem', 'alacarte-made-31.dockitem', 'org.gnome.Software.dockitem', 'rhythmbox.dockitem', 'libreoffice-writer.dockitem', 'libreoffice-calc.dockitem', 'firefox.dockitem']
+dock-items=['gufw.dockitem', 'gparted.dockitem', 'org.gnome.baobab.dockitem', 'org.gnome.DiskUtility.dockitem', 'Thunar.dockitem', 'nemo.dockitem', 'caja.dockitem', 'terminology.dockitem', 'lxterminal.dockitem', 'org.gnome.Terminal.dockitem', 'alacarte-made-48.dockitem', 'mate-about.dockitem', 'gnome-system-monitor.dockitem', 'synaptic.dockitem', 'xfce-display-settings.dockitem', 'thunderbird.dockitem', 'org.gnome.Todo.dockitem', 'onboard.dockitem', 'onboard-settings.dockitem', 'libreoffice-startcenter.dockitem', 'exo-preferred-applications.dockitem', 'kodi.dockitem', 'budgie-desktop-settings.dockitem', 'cinnamon-settings.dockitem', 'gnome-shell-extension-prefs.dockitem', 'unity-tweak-tool.dockitem', 'org.gnome.Totem.dockitem', 'steam.dockitem', 'PlayOnLinux.dockitem', 'com.github.wwmm.pulseeffects.dockitem', 'pavucontrol.dockitem', 'ca.desrt.dconf-editor.dockitem', 'alacarte-made-31.dockitem', 'org.gnome.Software.dockitem', 'rhythmbox.dockitem', 'libreoffice-writer.dockitem', 'libreoffice-calc.dockitem', 'firefox.dockitem', 'activity-log-manager.dockitem']
 hide-delay=500
 hide-mode='dodge-maximized'
 icon-size=24
@@ -825,16 +825,13 @@ zoom-percent=150
 
 [org/blueman/general]
 plugin-list=['!TransferService']
-window-properties=[551, 373, 413, 128]
+window-properties=[551, 373, 719, 126]
 
 [org/blueman/network]
 nap-enable=false
 
 [org/blueman/plugins/recentconns]
-recent-connections='eNp90Elv00AYBmBTurpAKWFfAxRIAZfxWmckDkmt0qpqL+XgCwcnnqRGsd3XC7dKzGH4i5z5J8yYSEku+DCL5/1m9D0/l060b9A6V7jWCdc0TYvi6LJiBZaG8aAu9fOqSLKxjuvhtjzsHdC+S/cDetijnk27PSwLrHCsTkvjgpUl1i7+pS1CTZcSm1oeJT1K+lgX2ODQwxWVniRRiU2Z3ZK7/qRmVZ5XF+3TvC4Zbgjc5LgVLsuzZJhn2JLBTbXJLuvKSJvQbYFtjjtNKItShla4I5dHdRpl7eNMtjGKhqwdsB+JnM5Z0cydo+NgF3ebqrpOYtyTV6s6Ij/TtBxDLQxTDb4aCPGJO+oObGc0wH2BBxwPm+oqkW8++tL73WrpnwdWuCr/xc1jeHzWNJkmFUvx5KzxGZfJOIsmeHqi1Vd4tuj9fIpGJFqX+lKMUCugBy5eCLQ5Xi4Qv5qmfZd2bRo4NJDRgHo+XgvscLyZI34rs+uK+KtxqrrCO4EOx+7M9r1M6Cpfx0luDKMixgeBjxzGjHYv3FC0URaXo4IxfJr5kQU/k/3XzxSwOOyZnyP94j/fPcec93Pn/bxFv33px37B3/sLM7e1XQ=='
-
-[org/blueman/transfer]
-shared-path='/home/griggorii/Загрузки'
+recent-connections='eNp90Elv00AYBmBTurpAacO+BlogBVzGdpw6I3FwakGrqpWqIuELByeepJZiu6+Xiksl5jD8Rf4OMyZSkgs+zOJ5vxl9z6+FY+0HtNY1brSCFU3Twii8LFmOhUHUrwr9vMzjdKTjZrApD70D2nPovk+/eLRj066HRYEljuVJaZSzosDKxb+0RajpUGJTq0OJR0kPqwJrHHqwpNLjOCywLrMbctcbV6zMsvKieZJVBcMtgdscd4JFeRYPshQbMriuNullVRpJHborsMmxVYfSMGFoBDtyeVglYdo8SmUbw3DAmj67iuV0zvJ6bh0e+bu4V1dVVRzhvrxa1RH5mabVNtTCMNXgqoEQlzjDbt9uD/t4IPCQ41FdXcbyzcdfvT+Nhv65bwXL8l9UP4Ynp3WTSVyyBE9Pa59REY/ScIxnx1p1jefz3i8maESidakrxQi1fHrg4KVAk+PVHPHrSdp1aNemfpv6MurTjottgR2ONzPEb2V2VRF/M05UV3gn0OLYndq+lwld5asozoxBmEf4IPCRw5jS7gVrijZMo2KYM4ZPUz8y52ey//qZAhaHPfVrS7+f1tbZ96tZP2fWrzPvty/92G+4e38BGtC07Q=='
 
 [org/cinnamon]
 alttab-switcher-delay=100
@@ -1763,7 +1760,7 @@ window-height=454
 window-width=802
 
 [org/gnome/gedit/plugins]
-active-plugins=['time', 'modelines', 'filebrowser', 'docinfo', 'pythonconsole', 'snippets', 'spell']
+active-plugins=['colorschemer', 'charmap', 'textsize', 'snippets', 'time', 'bracketcompletion', 'quickhighlight', 'commander', 'colorpicker', 'externaltools', 'findinfiles', 'docinfo', 'spell', 'terminal', 'git', 'wordcompletion', 'quickopen', 'filebrowser', 'modelines', 'pythonconsole', 'synctex', 'translate']
 
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
@@ -1783,7 +1780,7 @@ side-panel-visible=true
 
 [org/gnome/gedit/state/window]
 bottom-panel-active-page='GeditPythonConsolePanel'
-bottom-panel-size=22
+bottom-panel-size=50
 side-panel-active-page='GeditFileBrowserPanel'
 side-panel-size=274
 size=(965, 525)
@@ -1863,6 +1860,11 @@ include-border=true
 include-pointer=false
 last-save-directory='file:///home/griggorii/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F'
 
+[org/gnome/gnome-system-log]
+height=765
+logfiles=['/var/log/Xorg.0.log']
+width=668
+
 [org/gnome/gnome-system-monitor]
 current-tab='resources'
 maximized=false
@@ -1884,8 +1886,12 @@ sort-col=15
 sort-order=0
 
 [org/gnome/gthumb/browser]
+fullscreen-sidebar='hidden'
+fullscreen-thumbnails-visible=false
+go-to-last-location=true
 maximized=false
 properties-visible=false
+sidebar-sections=['GthFileProperties:expanded', 'GthFileComment:expanded', 'GthFileDetails:expanded', 'GthImageHistogram:expanded']
 sidebar-visible=true
 sort-inverse=false
 sort-type='file::mtime'
@@ -1894,6 +1900,7 @@ startup-location='file://~/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%B
 statusbar-visible=true
 thumbnail-list-size=0
 thumbnail-list-visible=true
+use-startup-location=false
 viewer-sidebar='hidden'
 
 [org/gnome/gthumb/data-migration]
@@ -1901,9 +1908,49 @@ catalogs-2-10=true
 
 [org/gnome/gthumb/general]
 active-extensions=['23hq', 'bookmarks', 'burn_disc', 'catalogs', 'change_date', 'comments', 'contact_sheet', 'convert_format', 'desktop_background', 'edit_metadata', 'exiv2_tools', 'facebook', 'file_manager', 'find_duplicates', 'flicker', 'gstreamer_tools', 'gstreamer_utils', 'image_print', 'image_rotation', 'importer', 'jpeg_utils', 'list_tools', 'oauth', 'photo_importer', 'photobucket', 'picasaweb', 'raw_files', 'red_eye_removal', 'rename_series', 'resize_images', 'search', 'selections', 'slideshow', 'webalbums']
+store-metadata-in-files=true
+
+[org/gnome/gthumb/image-print]
+font-name='Sans 12'
+footer-font-name='Sans 8'
+header-font-name='Sans Bold 12'
 
 [org/gnome/gthumb/photo-importer]
 delete-from-device=false
+
+[org/gnome/gthumb/pixbuf-savers/jpeg]
+default-ext='jpeg'
+optimize=true
+progressive=false
+quality=85
+smoothing=0
+
+[org/gnome/gthumb/pixbuf-savers/png]
+compression-level=6
+
+[org/gnome/gthumb/pixbuf-savers/tga]
+rle-compression=true
+
+[org/gnome/gthumb/pixbuf-savers/tiff]
+compression='deflate'
+default-ext='tiff'
+horizontal-resolution=72
+vertical-resolution=72
+
+[org/gnome/gthumb/pixbuf-savers/webp]
+lossless=false
+method=4
+quality=75
+
+[org/gnome/gthumb/resize]
+aspect-ratio='239x100'
+aspect-ratio-height=100
+aspect-ratio-invert=true
+aspect-ratio-width=239
+height=74.479164123535156
+high-quality=true
+unit='percentage'
+width=100.0
 
 [org/gnome/libgnomekbd/desktop]
 load-extra-items=true
@@ -2035,6 +2082,10 @@ ignore-phase2-ca-cert=false
 ignore-ca-cert=false
 ignore-phase2-ca-cert=false
 
+[org/gnome/nm-applet/eap/8905081b-97b8-4292-8998-95a9c4b5d789]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
 [org/gnome/nm-applet/eap/8a1d1c58-2399-43ed-a52d-b0afe0187fc8]
 ignore-ca-cert=false
 ignore-phase2-ca-cert=false
@@ -2094,6 +2145,9 @@ ignore-phase2-ca-cert=false
 [org/gnome/nm-applet/eap/fe0485ef-e892-4ffe-9e8b-1e7d23f0f2d5]
 ignore-ca-cert=false
 ignore-phase2-ca-cert=false
+
+[org/gnome/orca]
+active-profile=['Default', 'default']
 
 [org/gnome/rhythmbox]
 position=(202, 51)
@@ -2469,10 +2523,12 @@ date-format='regular'
 location-mode='path-bar'
 show-hidden=false
 show-size-column=true
+show-type-column=true
 sidebar-width=163
 sort-column='name'
 sort-directories-first=false
 sort-order='ascending'
+type-format='category'
 window-position=(228, 136)
 window-size=(912, 496)
 
@@ -2519,6 +2575,7 @@ last-server-connect-method=5
 never-queue-file-ops=false
 show-advanced-permissions=true
 show-computer-icon-toolbar=true
+show-edit-icon-toolbar=true
 show-hidden-files=false
 show-home-icon-toolbar=true
 show-location-entry=true
@@ -2535,7 +2592,7 @@ tooltips-show-mod-date=true
 tooltips-show-path=true
 
 [org/nemo/window-state]
-geometry='855x511+-123+186'
+geometry='855x511+324+65'
 maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
@@ -2647,4 +2704,4 @@ width=801
 [system/proxy]
 use-same-proxy=false
 EOF
-dconf load / < dconf-settings.ini && rm -rf ~/.cache/* &&   notify-send -i info Information "Перезаидите в сессию что бы изменения вступили в силу | please restart session By Griggorii setting my donate https://money.yandex.ru/to/410014999913799 " && rm -r dconf-settings.ini && killall budgie-panel && budgie-panel &&  killall showtime_desktop && showtime_desktop
+dconf load / < dconf-settings.ini && rm -rf ~/.cache/* && notify-send -i info Information "Перезаидите в сессию что бы изменения вступили в силу | please restart session By Griggorii setting my donate https://money.yandex.ru/to/410014999913799 " && rm -r dconf-settings.ini && killall budgie-panel && budgie-panel &&  killall showtime_desktop && showtime_desktop
